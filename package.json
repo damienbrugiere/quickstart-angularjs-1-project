@@ -4,15 +4,19 @@
   "description": "mon nouveau projet",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "browserify": "^13.0.0",
     "init": "^0.1.2",
+    "jquery": "^2.2.2",
     "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
+    "angular": "^1.5.2",
+    "angular-route": "^1.5.2",
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.1",
+    "gulp-bundle": "^0.2.3",
     "vinyl": "^1.1.1",
-    "gulp-bundle":"^0.2.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
